@@ -3,7 +3,7 @@
 ## 实现效果
 
 （在浏览器上按f11全屏预览）
-
+https://2468901709.github.io/echarts--bigdata/
 
 
 ## 使用工具
