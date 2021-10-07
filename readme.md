@@ -2,9 +2,9 @@
 
 ## 实现效果
 
-（在浏览器上全屏预览）
+（在浏览器上按f11全屏预览）
 
-![](D:\hbuilder-x-workplace\vue\初识vue\day31--大数据可视化\echartapp\dist\rmImg\1.png)
+
 
 ## 使用工具
 
